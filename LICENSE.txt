@@ -1,0 +1,20 @@
+COMPONENT LAB PROPRIETARY LICENSE
+
+Copyright © 2026 Ricardo Rodriguez. All rights reserved.
+
+Permission is granted to access and use the officially hosted Component Lab
+application for personal learning and classroom instruction.
+
+No permission is granted to copy, modify, adapt, translate, distribute,
+redistribute, sublicense, sell, publish, republish, reverse engineer, rehost,
+or create derivative versions of the software, interface, graphics,
+instructional design, or documentation without prior written permission from
+the copyright holder, except as permitted by applicable law.
+
+The software is provided “as is,” without warranty of any kind, express or
+implied, including but not limited to warranties of merchantability, fitness
+for a particular purpose, and noninfringement.
+
+Classroom VISTA and Component Lab are identifiers used by Ricardo Rodriguez
+for original instructional software.
+
